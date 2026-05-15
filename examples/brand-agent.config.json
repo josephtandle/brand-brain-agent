@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "slug": "example-brand",
+      "brandBrain": "projects/example-brand/BRAND-BRAIN.md",
+      "testimonialsDir": "projects/example-brand/testimonials",
+      "notesDir": "projects/example-brand/notes",
+      "contentQueue": "projects/example-brand/content-queue.json"
+    }
+  ],
+  "voiceRules": {
+    "bannedPhrases": [
+      "leverage",
+      "utilize",
+      "seamless",
+      "cutting-edge",
+      "revolutionary",
+      "game-changer",
+      "robust",
+      "synergy",
+      "unlock",
+      "take your business to the next level"
+    ],
+    "flagEmDash": true
+  }
+}

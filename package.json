@@ -1,0 +1,24 @@
+{
+  "name": "brand-brain-agent",
+  "version": "1.0.0",
+  "description": "A local brand intelligence agent for maintaining living brand brains, checking brand drift, and organizing positioning frameworks.",
+  "main": "src/brand-agent.js",
+  "bin": {
+    "brand-brain-agent": "src/brand-agent.js"
+  },
+  "scripts": {
+    "scan": "node src/brand-agent.js scan",
+    "init-project": "node src/brand-agent.js init-project",
+    "test": "node --check src/brand-agent.js"
+  },
+  "keywords": [
+    "brand",
+    "positioning",
+    "brand-strategy",
+    "content-strategy",
+    "ai-agent"
+  ],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
