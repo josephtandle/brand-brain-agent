@@ -1,5 +1,5 @@
 # Framework: The Common Enemy
-> Source: Age of AI Workshop Part 1; positioning theory
+> Source: Brand Brain Workshop Part 1; positioning theory
 > Use for: brand conviction, content angles, community building
 
 ---

@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "A local brand intelligence agent for maintaining living brand brains, checking brand drift, and organizing positioning frameworks.",
   "main": "src/brand-agent.js",
+  "files": [
+    "src/",
+    "frameworks/",
+    "templates/",
+    "examples/",
+    "README.md",
+    "LICENSE"
+  ],
   "bin": {
     "brand-brain-agent": "src/brand-agent.js"
   },

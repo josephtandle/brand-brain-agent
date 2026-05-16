@@ -16,7 +16,7 @@ These are the core frameworks used in every brand brain build and evaluation. Re
 | 10 | The Common Enemy | `10-common-enemy.md` | Brand conviction, content angles |
 | 11 | Anti-Positioning | `11-anti-positioning.md` | ICP clarity, sales qualification |
 | 12 | The Promise Ladder | `12-promise-ladder.md` | Homepage hierarchy, CTA sequencing |
-| 13 | Age of AI Workshop | `13-age-of-ai-workshop.md` | Full positioning build, Part 1-3 |
+| 13 | Brand Brain Workshop | `13-brand-brain-workshop.md` | Full positioning build, Part 1-3 |
 | 14 | Lovemarks | `14-lovemarks.md` | Brand loyalty architecture, premium positioning, community building |
 | 15 | Cult Brand Mechanics | `15-cult-brand-mechanics.md` | Enemy definition, in-group markers, community stickiness |
 | 16 | Category Design & POV | `16-category-pov.md` | Thought leadership, differentiation from AI-era commoditization |

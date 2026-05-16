@@ -1,5 +1,5 @@
 # Framework: Mental Market vs Visible Market
-> Source: Adapted from positioning theory; referenced in Age of AI Workshop
+> Source: Adapted from positioning theory; referenced in Brand Brain Workshop
 > Use for: homepage copy, pricing strategy, sales conversation difficulty
 
 ---

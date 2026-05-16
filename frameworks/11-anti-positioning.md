@@ -1,5 +1,5 @@
 # Framework: Anti-Positioning
-> Source: Age of AI Workshop Part 1
+> Source: Brand Brain Workshop Part 1
 > Use for: ICP clarity, sales qualification, positioning sharpness
 
 ---

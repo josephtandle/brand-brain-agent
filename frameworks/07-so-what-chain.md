@@ -1,5 +1,5 @@
 # Framework: The So What Chain
-> Source: Referenced in Age of AI Workshop Part 2
+> Source: Referenced in Brand Brain Workshop Part 2
 > Use for: translating features into felt outcomes, homepage copy, Mental Market positioning
 
 ---

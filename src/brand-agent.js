@@ -5,8 +5,9 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = process.cwd();
+const PACKAGE_ROOT = path.resolve(__dirname, '..');
 const CONFIG_PATH = path.join(ROOT, 'brand-agent.config.json');
-const TEMPLATE_PATH = path.join(ROOT, 'templates', 'brand-brain-template.md');
+const TEMPLATE_PATH = path.join(PACKAGE_ROOT, 'templates', 'brand-brain-template.md');
 const REPORTS_DIR = path.join(ROOT, 'reports');
 
 function parseArgs(argv) {
@@ -177,7 +178,7 @@ function initProject(args) {
 }
 
 function listFrameworks() {
-  const dir = path.join(ROOT, 'frameworks');
+  const dir = path.join(PACKAGE_ROOT, 'frameworks');
   for (const file of fs.readdirSync(dir).filter((item) => item.endsWith('.md')).sort()) {
     console.log(file);
   }
